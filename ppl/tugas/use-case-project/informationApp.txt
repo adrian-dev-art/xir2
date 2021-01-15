@@ -1,0 +1,3 @@
+Aplikasi Media Informasi Sekolah
+
+Aplikasi ini akan digunakan oleh warga sekolah meliputi Siswa,Guru,Staf TU, Staf kebersihan, Kepala Sekolah sebagai Customer,Admin Organisasi dan Admin yaitu para developer Aplikasi ini, Customer bisa melihat postingan, membuat postingan, membuat portfolio, menyukai, mengkomentari dan menshare postingan sendiri atau orang lain,Admin Organisasi di sekolah mendapatkan hak lebih yaitu membuat postingan yang terverifikasi dan Developer mempunyai hak untuk menghapus postingan yang tidak relevan dengan peraturan aplikasi, bahkan memblokir Customer
